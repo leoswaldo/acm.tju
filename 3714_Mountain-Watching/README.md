@@ -20,7 +20,7 @@ Bessie identify the widest mountain.
 
 Here's a simple example of a typical horizon:
 
-<code>
+<pre>
            *******                   *
           *********                 ***
           **********               *****
@@ -28,7 +28,7 @@ Here's a simple example of a typical horizon:
 *      *****************       ***********             *** *
 **    *******************     *************   * *     *******      *
 **********************************************************************
-</code>
+</pre>
 
 3211112333677777776543332111112344456765432111212111112343232111111211
 aaaaaa                   ccccccccccccccccccccc eeeeeee    ggggggggg
